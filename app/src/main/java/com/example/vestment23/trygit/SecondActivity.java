@@ -13,5 +13,6 @@ public class SecondActivity extends AppCompatActivity {
 
         TextView textView = findViewById(R.id.firsttextview);
         textView.setText("00000");
+        int x = 10;
     }
 }
