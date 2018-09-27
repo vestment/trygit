@@ -17,7 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".SecondActivity" />
+
         <activity android:name=".one.ONE"></activity>
+
+        <activity android:name=".TODOActivity"></activity>
+
     </application>
 
 </manifest>
