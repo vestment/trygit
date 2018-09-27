@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickHello(View view) {
+        int x = 10 ;
         startActivity(new Intent(this, SecondActivity.class));
+
     }
 }
