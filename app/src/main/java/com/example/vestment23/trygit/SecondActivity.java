@@ -12,6 +12,6 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.activity_second);
 
         TextView textView = findViewById(R.id.firsttextview);
-        textView.setText("laplapalplaplap");
+        textView.setText("00000");
     }
 }
