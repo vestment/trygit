@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView helloWorld = findViewById(R.id.hello);
 
-        helloWorld.setText("welcome !");
+        helloWorld.setText("welcomesssssssssssssss !");
     }
 }
